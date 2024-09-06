@@ -1,4 +1,4 @@
 # first.1
 my first repo
 <br>
-by Priyanshu Gupta
+by Priyanshu(Prop) Gupta(Grop)
